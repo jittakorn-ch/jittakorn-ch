@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a student
 -------------
 
-New gaduates - Khon Kaen University, Bachelor of Science Program in Statistical Information. I've been learning Python for 2 years.
+I've been learning Python for 2 years.
 
 * 🌍  I'm based in Khon Kaen, Thailand
 * ✉️  You can contact me at [jittakorn.2ch@gmail.com](mailto:jittakorn.2ch@gmail.com)
