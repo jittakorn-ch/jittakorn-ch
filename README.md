@@ -8,7 +8,7 @@ I've been learning Python for 2 years.
 
 * 🌍  I'm based in Khon Kaen, Thailand
 * ✉️  You can contact me at [jittakorn.2ch@gmail.com](mailto:jittakorn.2ch@gmail.com)
-* 🧠  I'm learning Python Developer
+* 🧠  I'm learning Python for Developer
 
 ### Skills
 
