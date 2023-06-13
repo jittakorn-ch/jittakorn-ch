@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================================
 
 I'm a new graduate 
-<a href="https://jittakorn-ch.github.io/Jittakorn_port.github.io/" target="_blank">(Portfolio [Coding Practice])
+<a href="https://jittakorn-ch.github.io/Jittakorn_port.github.io/" target="_blank"/>(Portfolio [Coding Practice])
 -------------
 
 I've been learning Python for 2 years.
